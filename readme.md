@@ -1,7 +1,7 @@
 
 # KinderInu Staking Test DApp
 
-![KinderInu Staking DApp](YOUR_IMAGE_URL)
+![KinderInu Staking DApp](https://raw.githubusercontent.com/ArielRin/kinder-staking-dapp-trials-and-test-dapp/master/images/kinder.jpg)
 
 This repository contains the test version of the KinderInu Staking DApp, utilizing WalletConnect v3 modal. It's built with the latest web technologies including Wagmi and Next.js to ensure the most efficient and user-friendly staking experience.
 
@@ -28,7 +28,7 @@ To get started with this project:
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/username/kinderinu-staking-test.git
+   git clone https://github.com/ArielRin/kinder-staking-dapp-trials-and-test-dapp.git
    ```
 2. Install dependencies
    ```bash
