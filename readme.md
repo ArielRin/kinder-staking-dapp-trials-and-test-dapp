@@ -47,9 +47,3 @@ Visit `http://localhost:3000` to view the DApp in action.
 Any feedback or suggestions are welcome. Please open an issue in this repository for any problems you encounter or enhancements you suggest.
 
 Thank you for your interest in the KinderInu Staking Test DApp!
-
-```
-
-Make sure to replace placeholder texts like `https://github.com/username/kinderinu-staking-test.git` with the actual repository URLs and any other placeholder content with the actual content.
-
-If you need to host the image and you're unsure how to do so, or you need assistance with any other step, let me know, and I can guide you through the process.
